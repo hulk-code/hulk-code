@@ -1,6 +1,7 @@
-<h1 align="center">Hi 👋, This Is Akash Sarkar</h1>
-<h3 align="center">A passionate MERN stack developer from Bangladesh</h3>
-<img align="right" alt="coding" width="400" src="https://i.ibb.co/JmvyHKN/gif.gif">
+![The San Juan Mountains are beautiful!](https://i.ibb.co/2hDqj9z/Purple-and-Blue-Neon-Gamer-Youtube-Banner.gif)
+
+
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulk-code&label=Profile%20views&color=0e75b6&style=flat" alt="hulk-code" /> </p>
 
 - 🌱 I’m currently learning **JavaScript,React,Next js,MongoDB**
