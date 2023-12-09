@@ -34,14 +34,31 @@
 1. **FITNESS HOUSE**
 
    - Live Link: [Fitness House Live](https://fittnesshouse-67e54.web.app)
-   - Featured: Explanation of the key features of the project.
+   - Technologies: React, Firebase Authentication, Node JS, Express JS, MongoDB, Stripe, JWT, Tailwind,Material ui,preline ui.
+     - **FEATURED OF MY PROJECT**
+   - Where customer, trainer and admin get info individually.
+   - On this website an admin can change the role based on user registration.
+   - Random customers can subscribe for the latest update.
+   - Customer can booked trainer by trainer available time slot. 
+   - Admin can pay trainer monthly payment. 
 
 2. **FIND YOUR JOB**
   
    -  Live Link: [FIND YOUR JOB](https://clever-marzipan-2ca7b3.netlify.app)
-   -  Featured: Explanation of the key features of the project.
+  
+   - Technologies: React, Firebase, Node JS, Express JS, MongoDB, Tailwind
+      - **FEATURED OF MY PROJECT**
+   - Firebase authentication with Google, email, and password 
+   - This is a site where users can post a job and also bid for a job that was posted by another user.
+   - Job owner can manage states of the user who bid for job.User can see the total posted job and bids job .
+
      
-3. **PHONE SHOP**
+4. **PHONE SHOP**
   
    - Live Link: [PHONE SHOP](https://incandescent-kheer-0aa31b.netlify.app)
-   - Featured: Explanation of the key features of the project.     
+   - Technologies: React, Firebase, Node JS, Express JS, MongoDB, JWT, Tailwind
+      - **FEATURED OF MY PROJECT**
+   - Filter the products by their Brand name.
+   - name. A add product section, where new arrival are added and that appear at the home     their category brand   name.
+   - Add product information can be updated and deleted. Only login in user can add ,delete and updated products   information.
+   - information. One can select a product and store it in my cart section.  
