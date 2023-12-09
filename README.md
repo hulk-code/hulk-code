@@ -29,3 +29,19 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hulk-code&show_icons=true&locale=en" alt="hulk-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hulk-code&" alt="hulk-code" /></p>
+<h3 align="left">Projects:</h3>
+
+1. **FITNESS HOUSE**
+
+   - Live Link: [Fitness House Live](https://fittnesshouse-67e54.web.app)
+   - Featured: Explanation of the key features of the project.
+
+2. **FIND YOUR JOB**
+  
+   -  Live Link: [FIND YOUR JOB](https://clever-marzipan-2ca7b3.netlify.app)
+   -  Featured: Explanation of the key features of the project.
+     
+3. **PHONE SHOP**
+  
+   - Live Link: [PHONE SHOP](https://incandescent-kheer-0aa31b.netlify.app)
+   - Featured: Explanation of the key features of the project.     
