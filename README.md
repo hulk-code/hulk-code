@@ -1,6 +1,7 @@
 ![The San Juan Mountains are beautiful!](https://i.ibb.co/2hDqj9z/Purple-and-Blue-Neon-Gamer-Youtube-Banner.gif)
 
 <h1 align="center" style="font-size: 36px;">👋 Hi, I'm AKASH SARKER!</h1>
+<h3 align="center">Junior MERN Stack Developer | React Artisan | From Dhaka , Bangaldesh</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulk-code&label=Profile%20views&color=0e75b6&style=flat" alt="hulk-code" /> </p>
 
