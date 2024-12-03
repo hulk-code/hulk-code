@@ -5,7 +5,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=hulk-code&label=Profile%20views&color=0e75b6&style=flat" alt="hulk-code" /> </p>
 
-- 🌱 I’m currently learning **JavaScript,React,Next js,MongoDB**
+- 🌱 I’m currently learning **JavaScript, React, Next js ,MongoDB**
 
 - 💬 Ask me about **react,javascript**
 
@@ -31,53 +31,6 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hulk-code&show_icons=true&locale=en" alt="hulk-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hulk-code&" alt="hulk-code" /></p>
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
-
-###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=maurodesouza&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
-
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" height="30" alt="typescript logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css3 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" height="30" alt="csharp logo"  />
-</div>
-
-###
-
-<div align="left">
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitch&logo=twitch&label=&color=9146FF&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="twitch logo"  />
-  <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
-  <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  />
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
 
 ###
 <h3 align="left">Projects:</h3>
@@ -85,12 +38,12 @@
 1. **FITNESS HOUSE**
 
    - Live Link: [Fitness House Live](https://fittnesshouse-67e54.web.app)
-   - Technologies: React, Firebase Authentication, Node JS, Express JS, MongoDB, Stripe, JWT, Tailwind,Material ui,preline ui.
+   - Technologies: React, Firebase Authentication, Node JS, Express JS, MongoDB, Stripe, JWT, Tailwind, Material ui,preline ui.
      - **FEATURED OF MY PROJECT**
-   - Where customer, trainer and admin get info individually.
-   - On this website an admin can change the role based on user registration.
+   - Where customer, trainer, and admin get info individually.
+   - On this website, an admin can change the role based on user registration.
    - Random customers can subscribe for the latest update.
-   - Customer can booked trainer by trainer available time slot. 
+   - Customer can book trainer by trainer available time slot. 
    - Admin can pay trainer monthly payment. 
 
 2. **FIND YOUR JOB**
@@ -101,7 +54,7 @@
       - **FEATURED OF MY PROJECT**
    - Firebase authentication with Google, email, and password 
    - This is a site where users can post a job and also bid for a job that was posted by another user.
-   - Job owner can manage states of the user who bid for job.User can see the total posted job and bids job .
+   - The job owner can manage the user's status when bidding. Users can see the total posted jobs and bids job.
 
      
 4. **PHONE SHOP**
@@ -110,6 +63,6 @@
    - Technologies: React, Firebase, Node JS, Express JS, MongoDB, JWT, Tailwind
       - **FEATURED OF MY PROJECT**
    - Filter the products by their Brand name.
-   - name. A add product section, where new arrival are added and that appear at the home     their category brand   name.
-   - Add product information can be updated and deleted. Only login in user can add ,delete and updated products   information.
+   - name. An add product section, where new arrivals are added and that appear at the home     their category brand   name.
+   - Add product information that can be updated and deleted. Only log in in users can add, delete,and update product   information.
    - information. One can select a product and store it in my cart section.  
