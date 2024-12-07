@@ -31,6 +31,8 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=hulk-code&show_icons=true&locale=en" alt="hulk-code" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=hulk-code&" alt="hulk-code" /></p>
+![snake gif](https://github.com/hulk-code/hulk-code/blob/output/github-snake-dark.svg)
+
 
 ###
 <h3 align="left">Projects:</h3>
